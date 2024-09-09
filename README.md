@@ -1,2 +1,2 @@
-# pdf_merger
- Python code to merge multiple PDFs into one.
+# PDF Merger 🗃️
+🐍 Python code to merge multiple PDFs into one.
